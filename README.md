@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rbalber
-- 👀 I’m interested in ...
+- 👀 I’m interested in data analytics, coding, sports, chess and literally everything 
 - 🌱 I’m currently learning python, SQL, Machine Learning, pandas, matplot, etc
 - 💞️ I’m looking to collaborate on any type of porjects as I am planning on a startup in the future
 - 📫 How to reach me find me on Discord or send me a message I guess. I'm still new here
